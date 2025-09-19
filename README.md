@@ -10,7 +10,7 @@ Ever wondered how study hours affect exam scores? This project builds a model to
 ---
 
 ## 🗂 Dataset
-- **Source:** [Student Performance Factors (Kaggle)](https://www.kaggle.com/datasets)  
+- **Source:** [Student Performance Factors (Kaggle)](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)  
 - **Columns:**
   - `Hours_Studied` → Number of hours a student studied  
   - `Exam_Score` → Final exam score  
